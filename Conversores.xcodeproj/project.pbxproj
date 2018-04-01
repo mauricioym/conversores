@@ -12,6 +12,7 @@
 		975F9FC1206FD1C8006FCEE6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 975F9FBF206FD1C8006FCEE6 /* Main.storyboard */; };
 		975F9FC3206FD1D1006FCEE6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 975F9FC2206FD1D1006FCEE6 /* Assets.xcassets */; };
 		975F9FC6206FD1D1006FCEE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 975F9FC4206FD1D1006FCEE6 /* LaunchScreen.storyboard */; };
+		97C8E79B207179A3004E90C9 /* PageSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97C8E79A207179A3004E90C9 /* PageSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		975F9FC2206FD1D1006FCEE6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		975F9FC5206FD1D1006FCEE6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		975F9FC7206FD1D1006FCEE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97C8E79A207179A3004E90C9 /* PageSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				975F9FBB206FD1C8006FCEE6 /* AppDelegate.swift */,
 				975F9FBD206FD1C8006FCEE6 /* ViewController.swift */,
 				975F9FBF206FD1C8006FCEE6 /* Main.storyboard */,
+				97C8E79A207179A3004E90C9 /* PageSection.swift */,
 				975F9FC2206FD1D1006FCEE6 /* Assets.xcassets */,
 				975F9FC4206FD1D1006FCEE6 /* LaunchScreen.storyboard */,
 				975F9FC7206FD1D1006FCEE6 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				975F9FBE206FD1C8006FCEE6 /* ViewController.swift in Sources */,
+				97C8E79B207179A3004E90C9 /* PageSection.swift in Sources */,
 				975F9FBC206FD1C8006FCEE6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
